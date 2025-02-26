@@ -1,0 +1,113 @@
+   {
+            "observations": [],
+            "coverage": {
+                "pathway": null,
+                "followUp": null,
+                "materialType": [
+                    "Other"
+                ],
+                "datasetCompleteness": null,
+                "typicalAgeRangeMax": 0,
+                "typicalAgeRangeMin": 0,
+                "spatial": "Prussia, Ottoman Empire, Gran Colombia"
+            },
+            "structuralMetadata": {
+                "tables": []
+            },
+            "enrichmentAndLinkage": {
+                "publicationUsingDataset": [],
+                "publicationAboutDataset": [],
+                "tools": [],
+                "investigations": []
+            },
+            "accessibility": {
+                "formatAndStandards": {
+                    "format": [
+                        "CSV",
+                        "Database"
+                    ],
+                    "language": [
+                        "en"
+                    ],
+                    "conformsTo": [
+                        "I2B2"
+                    ],
+                    "vocabularyEncodingScheme": [
+                        "LOCAL"
+                    ]
+                },
+                "access": {
+                    "dataProcessor": "Health Informatics Centre - University of Dundee",
+                    "dataController": "Health Informatics Centre - University of Dundee",
+                    "jurisdiction": [
+                        "UK",
+                        "SC"
+                    ],
+                    "deliveryLeadTime": "Not applicable",
+                    "accessRequestCost": "Quotation available on request",
+                    "accessService": "HIC has implemented a remote-access Trusted Research Environment to protect data confidentiality, satisfy public concerns about data loss and reassure Data Controllers about HIC’s secure management and processing of their data.\n\nData is not released externally to data users for analysis on their own computers but placed on a server at HIC, within a restricted, secure IT environment, where the data user is given secure remote access to carry out their analysis.\n\nFull details are available via the following link:\nhttps://www.dundee.ac.uk/hic/safe-haven",
+                    "accessServiceCategory": null,
+                    "accessRights": "https://www.dundee.ac.uk/hic/governance-service"
+                },
+                "usage": {
+                    "resourceCreator": null,
+                    "dataUseRequirements": [],
+                    "dataUseLimitation": [
+                        "General research use"
+                    ]
+                }
+            },
+            "provenance": {
+                "temporal": {
+                    "timeLag": "Variable",
+                    "endDate": null,
+                    "startDate": "2025-01-01T11:26:16.000Z",
+                    "distributionReleaseDate": null,
+                    "publishingFrequency": "Irregular"
+                },
+                "origin": {
+                    "imageContrast": "Not stated",
+                    "collectionSource": [],
+                    "source": [],
+                    "datasetSubType": [
+                        "Not applicable"
+                    ],
+                    "datasetType": [
+                        "Health and disease"
+                    ],
+                    "purpose": []
+                }
+            },
+            "documentation": {
+                "inPipeline": "Not available",
+                "associatedMedia": null,
+                "description": "TEST Description1"
+            },
+            "summary": {
+                "alternateIdentifiers": null,
+                "contactPoint": "jfriel001@dundee.ac.uk",
+                "doiName": null,
+                "keywords": [],
+                "populationSize": -1,
+                "dataCustodian": {
+                    "memberOf": null,
+                    "contactPoint": "jfriel001@dundee.ac.uk",
+                    "description": null,
+                    "logo": null,
+                    "name": "Health Informatics Centre - University of Dundee",
+                    "identifier": "12"
+                },
+                "abstract": "This is a test dataset abstract - update 11",
+                "title": "JFRIEL TEST Dataset"
+            },
+            "modified": "2025-01-08T11:23:35.000Z",
+            "issued": "2025-01-08T11:23:35.000Z",
+            "revisions": [
+                {
+                    "url": "http://www.example.com/",
+                    "version": "1.0.0"
+                }
+            ],
+            "version": "1.0.0",
+            "identifier": "05ec5a13-3955-45a3-b449-8aba78622113"
+        }
